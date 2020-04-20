@@ -1,5 +1,5 @@
 # CourseProj_COMP4007
-Restaurant Queuing System
+Name : Restaurant Queuing System
 
 Objective:
 To simulate and implement the Restaurant Queuing System (RQS) which often found at the entrance of restaurants.
